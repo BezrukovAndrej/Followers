@@ -1,0 +1,65 @@
+/* 
+  Localizable.strings
+  GithubFollowers
+
+  Created by Andrey Bezrukov on 28.04.2024.
+  
+*/
+
+// MARK: - TabBar
+
+"SEARCH" = "Search";
+"FAVORITE" = "Favorite";
+
+// MARK: - TextField / Button 
+
+"ENTER_NAME" = "Enter a username";
+"GET_FOLLOWERS" = "Get Followers";
+"OK" = "Ok";
+"SO_SAD" = "So sad";
+
+// MARK: - Alert
+
+"EMPTY" = "Empty Username.";
+"MESSAGE" = "Please enter a username. We need to know who to look for 😀";
+"WRONG" = "Something went wrong.";
+"UNABLE" = "Unable to complete request.";
+"INVALID_URL" = "Invalid URL";
+"URL_USER_INVALID" = "The url attached to this user is invalid";
+"NO_FOLLOWERS" = "No followers";
+"THIS_USER_NO_FOOLOWERS" = "This user has no followers 😞";
+"SUCCESS" = "Success!";
+"SUCCESSFULLY_FOVORITED" = "You have successfully favorited this user 🎉";
+"HOORAY" = "Hooray!";
+
+
+// MARK: - Error Message
+"INVALID_USER_NAME" = "This username created an invalid request. Please try again.";
+"UNABLE_TO_COMPLETE" = "Unable to complete your request. Please check your internet connection.";
+"INVALID_RESPONSE" = "Invalid response from the server. Please try again.";
+"INVALID_DATA" = "The data received from the server was invalid. Please try again.";
+"SOMETHING_WENT_WRONG" = "Something went wrong.";
+"UNABLE_TO_FAVORITES" = "There was an error favoriting this user. Please try again.";
+"ALREADY_IN_FAVORITES" = "You've already favorited this user. You must REALLY like them!";
+"UNABLE_REMOVE" = "Unable to remove";
+
+
+// MARK: - Empty State View
+"EMPTY_MESSAGE" = "This user doesn't have any followers. Go follow them 😀";
+"NO_FAVORITES" = "No Favorites?\nAdd one on the follower screen";
+
+// MARK: - SearchBar
+
+"SEARCH_USER" = "Search for username";
+
+// MARK: - User info
+
+"NO_LOCATION" = "No Location";
+"NO_BIO" = "No bio available";
+"REPOS" = "Public Repos";
+"GISTS" = "Public Gists";
+"FOLLOWERS" = "Followers";
+"FOLLOWING" = "Following";
+"GIT_PROFILE" = "GitHub Profile";
+"GET_FOLLOWERS" = "Get Followers";
+"CREATION_DATE" = "GitHub since: ";
