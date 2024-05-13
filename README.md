@@ -8,8 +8,8 @@ Github user review app
 [Github-Followers](https://disk.yandex.ru/i/47sbuF8aUl-d7Q)
 
 ## **Скриншот / Screenshot**
-<a href="https://ibb.co/bdzPCh7"><img src="https://i.ibb.co/ysWXZTV/Group-6.jpg" alt="Group-6" border="0"></a>
-<a href="https://ibb.co/qWvLs1k"><img src="https://i.ibb.co/KLJcqyF/Group-7.png" alt="Group-7" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>
+<a href="https://ibb.co/Y2PXVN5"><img src="https://i.ibb.co/dBjtHfN/dark.jpg" alt="dark" border="0"></a>
+<a href="https://ibb.co/mFqNJSg"><img src="https://i.ibb.co/BKZnLwF/light.jpg" alt="light" border="0"></a>
 
 ## **Ссылки / Links**
 
